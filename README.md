@@ -1,5 +1,5 @@
 
-# 🦘 Sistema de Sucursales - Canguro (Backend)
+# Sistema de Sucursales - Canguro (Backend)
 
 Aplicación web para administrar sucursales. Este proyecto corresponde al backend desarrollado en ASP.NET Core y SQL Server.
 
